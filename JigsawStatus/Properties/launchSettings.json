@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "JigsawStatus": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
